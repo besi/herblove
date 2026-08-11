@@ -479,10 +479,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "plot",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "herblove.step",
       "svg": "",
       "vrml": ""
     },

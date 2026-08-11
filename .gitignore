@@ -40,4 +40,6 @@ fp-info-cache
 .history
 
 # Local project settings
-*.kicad_prl
+*.kicad_prlplot
+
+plot
