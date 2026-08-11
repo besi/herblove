@@ -1,0 +1,18 @@
+[submodule "lib/c3-pico"]
+	path = lib/c3-pico
+	url = https://github.com/besi/kicad-c3-pico
+[submodule "lib/hw357"]
+	path = lib/hw357
+	url = https://github.com/besi/kicad-hw357
+[submodule "lib/pts636"]
+	path = lib/pts636
+	url = https://github.com/besi/kicad-pts636
+[submodule "lib/as12ap"]
+	path = lib/as12ap
+	url = https://github.com/besi/kicad-as12ap
+[submodule "lib/bme280"]
+	path = lib/bme280
+	url = https://github.com/besi/kicad-bme280
+[submodule "lib/sd-card"]
+	path = lib/sd-card
+	url = https://github.com/besi/kicad-sd-card
