@@ -6014,8 +6014,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 105.41 16.51 0)
-		(mirror x)
+		(at 105.41 13.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6023,7 +6022,7 @@
 		(dnp no)
 		(uuid "fed697ed-a555-44ac-904d-c5651e8884b3")
 		(property "Reference" "J5"
-			(at 106.045 21.59 0)
+			(at 106.045 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6031,7 +6030,7 @@
 			)
 		)
 		(property "Value" "Solar Panel"
-			(at 106.045 19.05 0)
+			(at 106.045 11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6039,7 +6038,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 105.41 16.51 0)
+			(at 105.41 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6048,7 +6047,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 16.51 0)
+			(at 105.41 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6057,7 +6056,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 105.41 16.51 0)
+			(at 105.41 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
