@@ -2480,6 +2480,12 @@
 		)
 	)
 	(junction
+		(at 119.38 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b5d0358-0d9c-4d69-99b3-918203464546")
+	)
+	(junction
 		(at 114.3 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3301,6 +3307,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 134.62 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f656752-18fc-443a-a4ec-c587f30655ec")
+		(property "Reference" "#PWR019"
+			(at 134.62 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fc4e4c0-ce12-4d83-b4c1-3b3dc011e3a0")
+		)
+		(instances
+			(project "herblove"
+				(path "/aea06310-3436-46a1-8b8b-19bfbdf98433"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Micro_SD_Card")
 		(at 210.82 66.04 0)
 		(unit 1)
@@ -4008,6 +4080,72 @@
 			(project "herblove"
 				(path "/aea06310-3436-46a1-8b8b-19bfbdf98433"
 					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 119.38 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "548938ee-50e9-46fa-9eb1-5692babc97ec")
+		(property "Reference" "#PWR020"
+			(at 119.38 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 119.38 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6e9d0d0-a5c7-468a-9c96-4cec4ec5fe1f")
+		)
+		(instances
+			(project "herblove"
+				(path "/aea06310-3436-46a1-8b8b-19bfbdf98433"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
